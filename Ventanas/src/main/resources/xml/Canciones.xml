@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<canciones xmlns="http://www.tds.es/canciones" xmlns:xs="http://www.w3.org/2001/XMLSchemainstance"
+    xs:schemaLocation="http://www.tds.es/canciones canciones.xsd">
+    <cancion titulo="La Vie en rose">
+        <URL><![CDATA[https://ia904708.us.archive.org/5/items/78_la-vie-en-rose-slow-chante_edith-piaf-louiguy-edith-piaf-chansons-parisiennes-guy_gbia0000684a/La%20Vie%20En%20Rose%20%28Slow%20Chante%29%20-%20Edith%20Piaf-restored.mp3]]></URL>
+        <estilo>Cabaret</estilo>
+        <interprete>Edith Piaf</interprete>
+    </cancion>
+
+    <cancion titulo ="Blooming Love">
+    <URL><![CDATA[https://archive.org/download/blooming-love-plk9vb/Party%20Night%20%E5%A4%A9%E3%81%AE%E5%B7%9D%20-%20Blooming%20Love%20-%2001%20Get%20Started%20For%20Love%20%28feat.%20Zai%20Kowen%29.mp3]]></URL>
+        <estilo>funk</estilo>
+        <interprete>Party Night</interprete>
+    </cancion>
+
+    <cancion titulo ="You Said Tonight">
+    <URL><![CDATA[https://archive.org/download/blooming-love-plk9vb/Party%20Night%20%E5%A4%A9%E3%81%AE%E5%B7%9D%20-%20Blooming%20Love%20-%2002%20You%20Said%20Tonight%20%28fea.%20KorewaDuck%29.mp3]]></URL>
+        <estilo>funk</estilo>
+        <interprete>Party Night</interprete>
+    </cancion>
+
+    <cancion titulo ="Never Stop">
+    <URL><![CDATA[https://archive.org/download/blooming-love-plk9vb/Party%20Night%20%E5%A4%A9%E3%81%AE%E5%B7%9D%20-%20Blooming%20Love%20-%2003%20Never%20Stop%21%21.mp3]]></URL>
+        <estilo>funk</estilo>
+        <interprete>Party Night</interprete>
+    </cancion>
+
+    <cancion titulo ="Bang Baby!!">
+    <URL><![CDATA[https://archive.org/download/blooming-love-plk9vb/Party%20Night%20%E5%A4%A9%E3%81%AE%E5%B7%9D%20-%20Blooming%20Love%20-%2009%20Bang%20Baby%21%21.mp3]]></URL>
+        <estilo>electronica</estilo>
+        <interprete>Party Night</interprete>
+    </cancion>
+
+    <cancion titulo ="Title Theme">
+    <URL><![CDATA[https://ia601401.us.archive.org/32/items/super-mario-64-soundtrack/Super%20Mario%2064%20%28Soundtrack%29/1-02%20Title%20Theme.mp3]]></URL>
+        <estilo>Videojuegos</estilo>
+        <interprete>Koji Kondo</interprete>
+    </cancion>
+
+    <cancion titulo ="Super Mario 64 Main Theme">
+    <URL><![CDATA[https://ia601401.us.archive.org/32/items/super-mario-64-soundtrack/Super%20Mario%2064%20%28Soundtrack%29/1-05%20Super%20Mario%2064%20Main%20Theme.mp3]]></URL>
+        <estilo>Videojuegos</estilo>
+        <interprete>Koji Kondo</interprete>
+    </cancion>
+
+    <cancion titulo ="Slider">
+    <URL><![CDATA[https://ia801401.us.archive.org/32/items/super-mario-64-soundtrack/Super%20Mario%2064%20%28Soundtrack%29/1-06%20Slider.mp3]]></URL>
+        <estilo>Videojuegos</estilo>
+        <interprete>Koji Kondo</interprete>
+    </cancion>
+
+    <cancion titulo ="Haunted House">
+    <URL><![CDATA[https://ia801401.us.archive.org/32/items/super-mario-64-soundtrack/Super%20Mario%2064%20%28Soundtrack%29/1-12%20Haunted%20House.mp3]]></URL>
+        <estilo>Videojuegos</estilo>
+        <interprete>Koji Kondo</interprete>
+    </cancion>
+
+    <cancion titulo ="Strawberry Fields Forever">
+    <URL><![CDATA[https://archive.org/download/the-beatles-1967-1970/1967-1970/1-01%20Strawberry%20Fields%20Forever.mp3]]></URL>
+        <estilo>Rock</estilo>
+        <interprete>The Beatles</interprete>
+    </cancion>
+
+    <cancion titulo ="Penny Lane">
+    <URL><![CDATA[https://archive.org/download/the-beatles-1967-1970/1967-1970/1-02%20Penny%20Lane.mp3]]></URL>
+        <estilo>Rock</estilo>
+        <interprete>The Beatles</interprete>
+    </cancion>
+
+    <cancion titulo ="All You Need Is Love">
+    <URL><![CDATA[https://archive.org/download/the-beatles-1967-1970/1967-1970/1-07%20All%20You%20Need%20Is%20Love.mp3]]></URL>
+        <estilo>Rock</estilo>
+        <interprete>The Beatles</interprete>
+    </cancion>
+
+    <cancion titulo ="Hello, Goodbye">
+    <URL><![CDATA[https://archive.org/download/the-beatles-1967-1970/1967-1970/1-09%20Hello%2C%20Goodbye.mp3]]></URL>
+        <estilo>Rock</estilo>
+        <interprete>The Beatles</interprete>
+    </cancion>
+
+    <cancion titulo ="Thriller">
+    <URL><![CDATA[https://archive.org/download/cd_thriller_michael-jackson-paul-mccartney/disc1/04.%20Michael%20Jackson%20-%20Thriller_sample.mp3]]></URL>
+        <estilo>Pop</estilo>
+        <interprete>Michael Jackson</interprete>
+    </cancion>
+
+    <cancion titulo ="Welcome To The Jungle">
+    <URL><![CDATA[https://archive.org/download/audklv20210404gunsnroses1987appetitefordestruction/Guns%20N%27%20Roses/%281987%29%20Appetite%20For%20Destruction/12_%20Vinyl_GHS%2024148/01%20-%20Welcome%20To%20The%20Jungle.mp3]]></URL>
+        <estilo>Rock</estilo>
+        <interprete>Guns n' Roses</interprete>
+    </cancion>
+
+    <cancion titulo ="It's So Easy">
+    <URL><![CDATA[https://archive.org/download/audklv20210404gunsnroses1987appetitefordestruction/Guns%20N%27%20Roses/%281987%29%20Appetite%20For%20Destruction/12_%20Vinyl_GHS%2024148/02%20-%20It%27s%20So%20Easy.mp3]]></URL>
+        <estilo>Rock</estilo>
+        <interprete>Guns n' Roses</interprete>
+    </cancion>
+
+</canciones>
